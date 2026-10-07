@@ -1,0 +1,2 @@
+requests>=2.32.0
+pyshp>=2.3.1
