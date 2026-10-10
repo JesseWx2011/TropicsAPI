@@ -180198,8 +180198,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -86.8,
-          32.8
+          -86.9,
+          33.5
         ]
       },
       "properties": {
@@ -180209,11 +180209,11 @@
         "wallet": "AT4",
         "name": "Isaias",
         "type": "Post-Tropical Cyclone",
-        "wind_mph": "35 mph",
-        "pressure_mb": "1006 mb",
-        "movement": "NNW at 10 mph",
-        "headline": "...FLASH FLOODING RISK CONTINUES WITH ISAIAS...",
-        "datetime_str": "10:00 AM CDT Sat Oct 10",
+        "wind_mph": "30 mph",
+        "pressure_mb": "1007 mb",
+        "movement": "NNE at 15 mph",
+        "headline": "...FLASH FLOODING RISK CONTINUES WITH ISAIAS AS IT MOVES THROUGH THE SOUTHEAST UNITED STATES...",
+        "datetime_str": "4:00 PM CDT Sat Oct 10",
         "advisory_number": null
       }
     },
@@ -180223,7 +180223,7 @@
       "properties": {
         "nhc_product": "metadata",
         "basin": "atlantic",
-        "generated_at": "2026-10-10T20:14:55.560002+00:00",
+        "generated_at": "2026-10-10T21:14:05.151410+00:00",
         "active_storms": 1,
         "gtwo_areas": 0
       }
